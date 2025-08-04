@@ -1,4 +1,5 @@
 ---
+layout: two-column-auto
 ---
 
 # SPOKE BODY
