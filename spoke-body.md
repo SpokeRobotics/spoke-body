@@ -6,7 +6,7 @@ layout: sideImages
 
 # Big Picture
 
-![](images/SpokeBotDualMotor_w_camera_2.png)
+![Dual Wheel Bot](images/SpokeBotDualMotor_w_camera_2.png)
 
 Spoke Body is the body of the Spoke project.  It is designed as a starting point for a diverse range of projects.
 
@@ -19,7 +19,7 @@ For any particular robot a custom solution can be invented.  But to be more usef
 
 # The Design
 
-![](images/Design.png)
+![Core Design](images/Design.png)
 
 At the core of the design is the frame.  It is created in modular sections.  There might be a core section, then perhaps front and rear sections and so on.
 
@@ -143,8 +143,8 @@ Panels have a core, and screw holes.  Also, to locate them in the frame, a small
 
 Panels are secured to the frame in a manner appropriate for the materials.  In some plastics, self tapping (thread forming) screws are very effective.  In other plastics,  threaded inserts will be ideal, possibly screws and nuts in some applications.
 
-<img src="images/m3_torx_thread_forming_6mm.png" alt="" style="width: 200px; margin: 0 auto; display: block;">
-![](images/m3_torx_thread_forming_6mm_dims.png)
+![M3 Torx Thread Forming](images/m3_torx_thread_forming_6mm.png)
+![M3 Torx Thread Forming Dimensions](images/m3_torx_thread_forming_6mm_dims.png)
 
 Panels can be customized for different purposes.
 - holding PCBs

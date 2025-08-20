@@ -4,6 +4,8 @@ layout: sideImages
 
 # Panels
 
+## Sides
+
 Panels can be made from sides.
 
 ![](images/Panels_Sides.png)
@@ -11,10 +13,14 @@ Panels can be made from sides.
 
 Panels have a core, and screw holes.  Also, to locate them in the frame, a small ridge.  Depending on the fasteners, the outside screw holes will be countersunk.
 
+## Screws
+
 Panels are secured to the frame in a manner appropriate for the materials.  In some plastics, self tapping (thread forming) screws are very effective.  In other plastics,  threaded inserts will be ideal, possibly screws and nuts in some applications.
 
-<img src="images/m3_torx_thread_forming_6mm.png" alt="" style="width: 200px; margin: 0 auto; display: block;">
+![](images/m3_torx_thread_forming_6mm.png)
 ![](images/m3_torx_thread_forming_6mm_dims.png)
+
+## Purposes
 
 Panels can be customized for different purposes.
 - holding PCBs
