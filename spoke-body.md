@@ -1,5 +1,5 @@
 ---
-layout: two-column-auto
+layout: sideImages
 ---
 
 # SPOKE BODY
