@@ -20,6 +20,8 @@ This is pretty straightforward in the case of 90° cuboids, where all the edges 
 
 [image of sides needing trimming - TBD]
 
+<STLViewer src="Cuboid_96x_64_32_4mm.stl" height={260} expandedHeight={480} name="Cuboid 96 64 32" toolsEnabled={true} />
+
 ## Frame Interconnection
 
 Frames designed to be connected to other frames have a modified connection.  Note that in the above image, the side facing to the left has two new features:  one is the internal lip, just a few millimeters wide and high, that helps locate one frame to another.  The other feature is that the corner holes are larger to allow the screw to pass through one and be secured into the other.
