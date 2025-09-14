@@ -66,3 +66,7 @@ On the sides are two panels that hold an 18650 cell each.
 Panels are secured to the frame in a manner appropriate for the materials.  In some plastics, self tapping (thread forming) screws are very effective.  In other plastics,  t## Power Panelhreaded inserts will be ideal, possibly screws and nuts in some applications.
 
 ![](images/m3_torx_thread_forming_6mm_dims.png)
+
+# Next
+
+See the [Side](/docs/spoke-body/side) documentation 

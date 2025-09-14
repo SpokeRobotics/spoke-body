@@ -22,6 +22,12 @@ Frames designed to be connected to other frames have a modified connection.  The
 
 <ModelViewer src="CuboidExtension_32_64_32_4mm.stl" height={480} expandedHeight={480} name="Cuboid 96 64 32" shadingMode="DARK" edgesMode="LIGHT GRAY" />
 
+![](images/FrameExtension.png)
+
+![](images/FrameExtensionJoined.png)
+
+![](images/FrameExtensionCross.png)
+
 # Frame Construction
 
 The intention with frames is that they are extensible.  So how are they built?  The answer is that they are built from the sides.  See the [side](/docs/spoke-body/side) page for more details.
