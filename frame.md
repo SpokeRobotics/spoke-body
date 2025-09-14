@@ -12,7 +12,7 @@ The Frame is the skeleton of the robot.  It is the frame that holds everything t
 
 At the heart of each Spoke Robot, there is the Frame core.  It is is the smallest frame necessary to enclose the minimal robotic function.
 
-<STLViewer src="Cuboid_96x_64_32_4mm.stl" height={480} expandedHeight={480} name="Cuboid 96 64 32" shadingMode="DARK" edgesMode="LIGHT GRAY" />
+<ModelViewer src="Cuboid_96x_64_32_4mm.glb" height={480} expandedHeight={480} name="Cuboid 96 64 32" shadingMode="DARK" edgesMode="LIGHT GRAY" />
 
 For ease of assembly frame lengths are drawn from a set canonical values, 32mm, 48, 64mm, 96mm, 128mm, etc.  
 
@@ -20,7 +20,7 @@ For ease of assembly frame lengths are drawn from a set canonical values, 32mm, 
 
 Frames designed to be connected to other frames have a modified connection.  The frame to be connected has one side with location features designed to connect to the target frame.  Obviously the connecting sides have to have the same dimensions.  Holes on the connecting side are larger to allow the screw to pass and to be secured into the other.
 
-<STLViewer src="CuboidExtension_32_64_32_4mm.stl" height={480} expandedHeight={480} name="Cuboid 96 64 32" shadingMode="DARK" edgesMode="LIGHT GRAY" />
+<ModelViewer src="CuboidExtension_32_64_32_4mm.stl" height={480} expandedHeight={480} name="Cuboid 96 64 32" shadingMode="DARK" edgesMode="LIGHT GRAY" />
 
 # Frame Construction
 

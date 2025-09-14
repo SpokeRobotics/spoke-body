@@ -39,8 +39,8 @@ For the 96 x 64 x 32mm core there are several different panels:
 
 ## Power Panel
 
-<STLViewer src="RectPanel_96x_64_PcbMount_28_Power.stl" height={240} expandedHeight={480} name="Panel 96 64 w/Pcb Mount" shadingMode="CREAM" edgesMode="LIGHT GRAY" />
-<STLViewer src="RectPanel_96x_64_PcbMount_28_Power_Door.stl" height={240} expandedHeight={480} name="Panel 96 64 w/Pcb Mount" shadingMode="CREAM" edgesMode="LIGHT GRAY" />
+<ModelViewer src="RectPanel_96x_64_PcbMount_28_Power.stl" height={240} expandedHeight={480} name="Panel 96 64 w/Pcb Mount" shadingMode="CREAM" edgesMode="LIGHT GRAY" />
+<ModelViewer src="RectPanel_96x_64_PcbMount_28_Power_Door.stl" height={240} expandedHeight={480} name="Panel 96 64 w/Pcb Mount" shadingMode="CREAM" edgesMode="LIGHT GRAY" />
 
 The power panel has three purposes:
 - holding a couple of PCBs on the inside of the frame
@@ -51,13 +51,13 @@ The power panel has a door that secures the WPC coil on the outside.
 
 ## Pcb Panel
 
-<STLViewer src="RectPanel_96x_64_PcbMount_28_4mm.stl" height={240} expandedHeight={480} name="Panel 96 64 w/Pcb Mount" shadingMode="CREAM" edgesMode="LIGHT GRAY" />
+<ModelViewer src="RectPanel_96x_32_4mm.stl" height={240} expandedHeight={480} name="Panel 96 64 w/Pcb Mount" shadingMode="CREAM" edgesMode="LIGHT GRAY" />
 
 The plain PCB panel serves only to secure a PCB, in the case of the core, it will hold the Spoke Controller.
 
 ## 18650 Cell Panel
 
-<STLViewer src="RectPanel_96x_32_Cell_18650_4mm.stl" height={240} expandedHeight={480} name="Panel 96 64 w/Pcb Mount" shadingMode="CREAM" edgesMode="LIGHT GRAY" />
+<ModelViewer src="RectPanel_96x_32_Cell_18650_4mm.stl" height={240} expandedHeight={480} name="Panel 96 64 w/Pcb Mount" shadingMode="CREAM" edgesMode="LIGHT GRAY" />
 
 On the sides are two panels that hold an 18650 cell each.
 
