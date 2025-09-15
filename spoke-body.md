@@ -21,7 +21,7 @@ For any particular robot a custom solution can be invented.  But to be more usef
 
 ![Core Design](images/Design.png)
 
-At the core of the design is the frame.  It is created in modular sections.  There might be a core section, then perhaps front and rear sections and so on.
+At the core of the design is the [Frame](/docs/spoke-body/frame).  It is created in modular sections.  There might be a core section, then perhaps front and rear sections and so on.
 
 The frame is an open structure inside permitting maximum unobstructed space.  It is designed to completely enclose robot internals including wiring.
 
