@@ -25,6 +25,8 @@ At the core of the design is the [Frame](/docs/spoke-body/frame).  It is created
 
 The frame is an open structure inside permitting maximum unobstructed space.  It is designed to completely enclose robot internals including wiring.
 
+<LinkButton href="/docs/spoke-body/frame" size="2">Frame</LinkButton>
+
 Panels are screwed into the frame in such a way as to not interfere with each other.
 
 Panels serve multiple purposes, for example, to: 
@@ -33,6 +35,8 @@ Panels serve multiple purposes, for example, to:
 - make robot internals easily accessible
 - lend additional rigidity to the frame
 - mount touch sensors
+
+<LinkButton href="/docs/spoke-body/panel" size="2">Panel</LinkButton><LinkButton href="/docs/spoke-body/side" size="2">Side</LinkButton>
 
 All the design resources for these parts are parameterized for total customization, however, if reusability is a goal, then these parameters are assigned - somewhat arbitrarily into sets of standard values.  For example one set of values might be as follows:
 
