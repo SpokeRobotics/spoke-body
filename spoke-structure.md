@@ -2,13 +2,13 @@
 layout: sideImages
 ---
 
-# SPOKE BODY
+# SPOKE STRUCTURE
 
 # Big Picture
 
 ![Dual Wheel Bot](images/SpokeBotDualMotor_w_camera_2.png)
 
-Spoke Body is the body of the Spoke project.  It is designed as a starting point for a diverse range of projects.
+Spoke Structure is the body of the Spoke project.  It is designed as a starting point for a diverse range of projects.
 
 For any robotics project, the body has many roles:
 - provide the structure of the robot
